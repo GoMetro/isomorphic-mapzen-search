@@ -1,5 +1,5 @@
 {
-  "name": "isomorphic-mapzen-search",
+  "name": "@gometro/isomorphic-mapzen-search",
   "description": "Isomorphic Mapzen search for reuse across our libraries.",
   "main": "./build/index",
   "scripts": {
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/conveyal/isomorphic-mapzen-search"
+    "url": "https://github.com/GoMetro/isomorphic-mapzen-search"
   },
   "author": "Conveyal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/conveyal/isomorphic-mapzen-search/issues"
+    "url": "https://github.com/GoMetro/isomorphic-mapzen-search/issues"
   },
-  "homepage": "https://github.com/conveyal/isomorphic-mapzen-search",
+  "homepage": "https://github.com/GoMetro/isomorphic-mapzen-search",
   "dependencies": {
     "@conveyal/lonlat": "^1.1.2",
     "isomorphic-fetch": "^2.2.1",

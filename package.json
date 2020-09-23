@@ -38,5 +38,6 @@
   },
   "jest": {
     "testURL": "http://localhost"
-  }
+  },
+  "version": "1.5.2"
 }
